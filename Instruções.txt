@@ -1,0 +1,9 @@
+Intruções de uso do BookFinder!
+
+1. Para que seu sistema operacional reconheça o BookFinder, é preciso ter o JDK instalado na sua máquina.
+Caso não tenha uma versão do JDK instalada na sua máquina, baixe a versão de acordo com seu sistema operacional.
+Link: https://www.oracle.com/java/technologies/downloads/
+
+2. Procure o executável "BookFinder.jar" (BookFinder\dist) na pasta "dist". Depois, basta executa-lo.
+
+3. Clique no botão "Buscar" e informe o nome do livro desejado!
